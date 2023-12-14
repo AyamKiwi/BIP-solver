@@ -1,0 +1,1 @@
+C:\Users\AyamKiwi\Google\ Drive\vscode\Notes\RISOP\solver\source_code\integer_min\target\release\integer_min.exe: C:\Users\AyamKiwi\Google\ Drive\vscode\Notes\RISOP\solver\source_code\integer_min\src\main.rs

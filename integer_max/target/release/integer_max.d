@@ -1,0 +1,1 @@
+C:\Users\AyamKiwi\Google\ Drive\vscode\Notes\RISOP\solver\source_code\integer_max\target\release\integer_max.exe: C:\Users\AyamKiwi\Google\ Drive\vscode\Notes\RISOP\solver\source_code\integer_max\src\main.rs
